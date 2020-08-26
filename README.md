@@ -1,7 +1,17 @@
 # Os-Xs-2
+
 Noughts and crosses squared
 
 ## Usage
+
+### Requirements
+
+| Distro        | Instructions                                  |
+| ------------- | --------------------------------------------- |
+| Ubuntu/debian | sudo apt-get install gcc make git libenet-dev |
+| Manjaro       | pamac install gcc make git enet               |
+
+### Compiling
 
 The usual CMake instructions:
 
