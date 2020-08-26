@@ -1,3 +1,3 @@
 [submodule "src/submodules/enet"]
-	path = src/submodules/enet
+	path = submodules/enet
 	url = https://github.com/lsalzman/enet
